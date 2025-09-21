@@ -1,0 +1,8 @@
+/__pycache__
+/pr_review_agent.log
+.env
+/api/__pycache__
+/api/pr_review_agent.log
+/adapters/__pycache__
+/analyzers/__pycache__
+/utils/__pycache__
